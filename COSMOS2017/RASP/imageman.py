@@ -63,3 +63,5 @@ def whiteImage( picture ):
     
   show( picture )
   
+  
+negativeImage( pic )
