@@ -11,7 +11,7 @@ all:
 	sudo apt-get install python-opencv
 	sudo apt-get install realvnc-vnc-server realvnc-vnc-viewer
 	sudo apt-get install git
-	sudo apt-get-update
+	sudo apt-get update
 	sudo apt-get upgrade
 	sudo reboot	
 
